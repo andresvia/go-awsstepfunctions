@@ -1,2 +1,3 @@
-# go-awsstatemachine
-Author state machines programaticaly
+# go-awsstepfunctions
+
+Author state machines programaticaly.
